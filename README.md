@@ -6,14 +6,14 @@ The **Gender Reveal Puzzle Game** is a **real-time cooperative web app** where g
 
 ## 🚀 Features
 
-✅ **Real-Time Gameplay:** Guests collaborate in real-time to solve the puzzle.  
-✅ **Guest Participation via QR Code:** No app download is needed; guests join by scanning a QR code.  
-✅ **Default Free Images:** 4 built-in images (2 for a girl, 2 for a boy).  
-✅ **Paid Custom Image Upload:** Hosts can upload a custom image for a small fee.  
-✅ **Unique Puzzle Pieces:** Each guest gets a piece and must place it correctly.  
-✅ **Host Controls:** Hosts see all piece positions and can guide guests.  
-✅ **Rejoin Functionality:** Guests can **rejoin with the same puzzle piece** if they refresh/close their tab.  
-✅ **Scalability & Monetization:** Free for default images; paid option for custom uploads.  
+- **Real-Time Gameplay:** Guests collaborate in real-time to solve the puzzle.  
+- **Guest Participation via QR Code:** No app download is needed; guests join by scanning a QR code.  
+- **Default Free Images:** 4 built-in images (2 for a girl, 2 for a boy).  
+- **Paid Custom Image Upload:** Hosts can upload a custom image for a small fee.  
+- **Unique Puzzle Pieces:** Each guest gets a piece and must place it correctly.  
+- **Host Controls:** Hosts see all piece positions and can guide guests.  
+- **Rejoin Functionality:** Guests can **rejoin with the same puzzle piece** if they refresh/close their tab.  
+- **Scalability & Monetization:** Free for default images; paid option for custom uploads.  
 
 ## 🏗️ Tech Stack
 
